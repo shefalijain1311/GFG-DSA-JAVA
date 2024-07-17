@@ -53,5 +53,5 @@ class Solution
         
         /* return true if both arrays are equal. else false */
             return Arrays.equals(charArray1, charArray2);
-}
+    }
 }
