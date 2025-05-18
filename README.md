@@ -61,4 +61,8 @@
 | ------- |
 | [1876-map-of-highest-peak](https://github.com/shefalijain1311/GFG-DSA-JAVA/tree/master/1876-map-of-highest-peak) |
 | [2145-grid-game](https://github.com/shefalijain1311/GFG-DSA-JAVA/tree/master/2145-grid-game) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/shefalijain1311/GFG-DSA-JAVA/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
