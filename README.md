@@ -43,11 +43,13 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/shefalijain1311/GFG-DSA-JAVA/tree/master/0013-roman-to-integer) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shefalijain1311/GFG-DSA-JAVA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/shefalijain1311/GFG-DSA-JAVA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/shefalijain1311/GFG-DSA-JAVA/tree/master/0013-roman-to-integer) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/shefalijain1311/GFG-DSA-JAVA/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/shefalijain1311/GFG-DSA-JAVA/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Prefix Sum
@@ -65,4 +67,5 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/shefalijain1311/GFG-DSA-JAVA/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/shefalijain1311/GFG-DSA-JAVA/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
