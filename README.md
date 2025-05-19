@@ -21,6 +21,7 @@
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/shefalijain1311/GFG-DSA-JAVA/tree/master/0027-remove-element) |
 | [0287-find-the-duplicate-number](https://github.com/shefalijain1311/GFG-DSA-JAVA/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/shefalijain1311/GFG-DSA-JAVA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1293-three-consecutive-odds](https://github.com/shefalijain1311/GFG-DSA-JAVA/tree/master/1293-three-consecutive-odds) |
@@ -30,6 +31,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/shefalijain1311/GFG-DSA-JAVA/tree/master/0027-remove-element) |
 | [0287-find-the-duplicate-number](https://github.com/shefalijain1311/GFG-DSA-JAVA/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
